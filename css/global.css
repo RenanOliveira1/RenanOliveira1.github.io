@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Fira Sans", sans-serif, Arial;
   margin: 0px;
   color: #f0dfdf;
   background-color: #816892;
@@ -29,7 +29,7 @@ img {
   line-height: 1;
   text-transform: uppercase;
   word-break: break-all;
-  max-width: 5ch;
+  max-width: 4ch;
 }
 
 @media (max-width: 800px) {
